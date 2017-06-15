@@ -35,7 +35,7 @@ _Sécurité informatique_
 
 ## Expériences 
 
-`2015-Maintenant`
+`2015-2017`
 _Entrepreneur & Indépendant - [SASU ZSJ](http://zsj.fr)_
 * Développement en cours d'un système de gestion de contenu pour les associations chinoises en France 
 * &nbsp;&nbsp;&nbsp;&nbsp;`AngularJs 4 / Typescript / WechatAPI / Firebase / Heroku`
