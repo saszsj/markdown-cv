@@ -69,9 +69,9 @@ _Fondateur & Développeur - [Itsium Inc.](http://itsium.cn/) à Beijing en Chine
 
 `2010-2012`
 _Directeur technique & Chef de projet - Innova Technologie à Chongqing en Chine_
-* Installation et la gestion d'un serveur de code source __[Gitlab](https://about.gitlab.com/)__
 * Gestion de projet avec la méthode __Scrum__ avec en utilisant la solution open source [Icescrum](https://www.icescrum.com/)
 * Étude de besoin et rédaction de cahiers des charges
+* Installation et la gestion d'un serveur de code source __[Gitlab](https://about.gitlab.com/)__
 
 
 ## Education

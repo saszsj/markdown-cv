@@ -4,87 +4,87 @@ title: Shengjie ZHAN's CV
 ---
 # Shengjie ZHAN
 <br>
-Freelance Développeur “Full stack” & Expert en sécurité informatique
+Freelance Full Stack Developer & IT Security Consultant
 
 <div id="webaddress">
+Address: 15 RUE KLEBER, MONTREUIL, FRANCE
 Email: <a href="contact@zsj.fr">contact@zsj.fr</a> <br>
 Phone: <a href="tel:+3369505066077">+3369505066077</a>
 </div>
 
-## Spécialisation
-* Développement “Full stack” d‘application web, mobile ou de bureau.
-* Audit de sécurité (Système, réseaux, application web)
-* Teste d’intrusion  
-	
-## Compétences 	
+## Specialized in
 
-_Langages de programmations_
+* Full Stack web/mobile/desktop development
+* Auditing (operating systems, network components, web applications)
+* Security analysis and penetration testing
+
+
+## Skills
+
+_Programming Languages_
 * JS, PHP, SQL, Ruby, JAVA, Shell script, Ruby on rails, C, C++
 
-_Interface utilisateur Web/Mobile/Desktop_
+_Front-end Web/Mobile/Desktop_
 * Ionic, AngularJs, MeteorJs, Cordova, Electron
 
-_Niveau serveur_
+_Server-side_
 * Nginx, Apache, Docker, Nodejs, Parse 
 
-_Sécurité informatique_
-* Audit de sécurité
-* Teste d’intrusion  
-* Audit de code source
-* Audit de configuration serveur
+_IT Security_
+* Security audit
+* Penetration testing
+* Source Code Auditor
 
-## Expériences 
 
-`2015-2017`
-_Entrepreneur & Indépendant - [SASU ZSJ](http://zsj.fr)_
-* Développement en cours d'un système de gestion de contenu pour les associations chinoises en France 
+## Experiences
+
+
+`2015-NOW`
+_Entrepreneur & Freelance - [SASU ZSJ](http://zsj.fr)_
+
+* Development in progress of a CRM for European Chinses ONGs 
 * &nbsp;&nbsp;&nbsp;&nbsp;`AngularJs 4 / Typescript / WechatAPI / Firebase / Heroku`
-* Développement d’une application mobile hybride fonctionnant dans l'environnement Wechat Hrlife 
+* Hrlife: a commercial platform based on Ionic
 * &nbsp;&nbsp;&nbsp;&nbsp;`Ionic / AngularJs / Nodejs / ExpressJs / Nginx / Mongodb / Gulp`
-* Développement d’une application mobile hybride Maidou 
+* A lite ecommerce mobile application : Maidou 
 * &nbsp;&nbsp;&nbsp;&nbsp;`MeteorJs / Mongodb`
-* Développement & mise en production du site [Nuclear Scope](http://www.nuclearscope.com)
+* Development of website [Nuclear Scope](http://www.nuclearscope.com)
 * &nbsp;&nbsp;&nbsp;&nbsp;`Bootstrap / MeteorJs / Nodejs / Mongodb / Heroku`
-* Développement & mise en production de [Restaurantschinois.com](http://www.restaurantschinois.com) un site de référencement pour les restaurateurs chinois en France
+* Development of website [Restaurantschinois.com](http://www.restaurantschinois.com) 
 * &nbsp;&nbsp;&nbsp;&nbsp;`Bootstrap / Google Place API / Meetup API / Mediawiki API / Nodejs / Mongodb / Heroku`
 
 
-
-
 `2012-2015`
-_Fondateur & Développeur - [Itsium Inc.](http://itsium.cn/) à Beijing en Chine_
-* Développement et déploiement de l'intranet 
+_Founder & Developer - [Itsium Inc.](http://itsium.cn/) in Beijing, China_
+* Development of the intranet of company 
 * &nbsp;&nbsp;&nbsp;&nbsp;`Ruby on rails / MySql / Phusion Passenger / Nginx`
-* Développement d'application mobile hybride
+* Development of hybrid mobile app for Chinese clients
 * &nbsp;&nbsp;&nbsp;&nbsp;`jQuery Mobile / Ratchet / Javascript / Phonegap / Ruby on rails`
-* Développement d'un site ecommerce basé sur l'api [Spree Commerce](https://spreecommerce.com/)
+* Development of Ecommerce website based on [Spree Commerce](https://spreecommerce.com/)
 * &nbsp;&nbsp;&nbsp;&nbsp;`Bootstrap / RESTAPI / Ruby on rails / MySql`
-* Développement d'un robot d'indexation du site [Taobao](http://www.taobao.com)
-* &nbsp;&nbsp;&nbsp;&nbsp;`PhantomJS / Nokogiri / Ruby / Mongodb`
-* Audit de sécurité pour divers clients en télétravail : Ingenico, FDJ, Payzen, Carrefour, ADLP, Bred, Inserm, Decyben, BaridBank
-* Réalisation de tests d'intrusion sur des solutions web, protocole bancaire et serveurs d'applications.
-* Audit de configuration serveur et de code source.
+* Work as freelance security auditor for French companies : Ingenico, FDJ, Payzen, Carrefour, ADLP, Bred, Inserm, Decyben, BaridBank
+* Penetration testing & Audit
+* Audit of configuration server and source code.
 * &nbsp;&nbsp;&nbsp;&nbsp;`Metasplit / Burp Suite / Wireshark / Nmap / PHP / Python / Shellscript`
 
-
 `2010-2012`
-_Directeur technique & Chef de projet - Innova Technologie à Chongqing en Chine_
-* Installation et la gestion d'un serveur de code source __[Gitlab](https://about.gitlab.com/)__
-* Gestion de projet avec la méthode __Scrum__ avec en utilisant la solution open source [Icescrum](https://www.icescrum.com/)
-* Étude de besoin et rédaction de cahiers des charges
-
+_CTO - Innova Technologie à Chongqing en Chine_
+* Team management with __Scrum__ method by using open source solution [Icescrum](https://www.icescrum.com/)
+* System analyst and definition of project specifications with clients
 
 ## Education
 
 `2005-2010`
-BAC+5 Ingénieur informatique - EPITECH, France
+EPITECH IT Master Degree, France
 
 `2008-2009`
-Université de Chongqing, China
+Chongqing University, China
 
-## Langues
+## Languages
 
-* Français (bilingue)
-* Chinois (bilingue)
-* Anglais
+* French (native)
+* Chinese (native)
+* English
+
+
 
